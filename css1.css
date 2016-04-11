@@ -1,5 +1,5 @@
 body{font-family:sans-serif;}
-#banner{background-color: grey;height: 120px; padding:60px;position: relative;}
+#banner{background-color: grey;height: 120px; padding:60px;position:relative ;width:100%; z-index: -1;}
 a{width: 100px; display: block;}
 #inbetween{display: inline}
 #top{text-decoration:none;}
