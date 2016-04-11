@@ -2,5 +2,4 @@ body{font-family:sans-serif;}
 #banner{background-color: grey;height: 120px; padding:60px;position: relative;}
 a{width: 100px; display: block;}
 #inbetween{display: inline}
-#top{text-decoration:none;}
 
